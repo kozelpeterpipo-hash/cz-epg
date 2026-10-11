@@ -15,4 +15,7 @@
   <channel site="m.tv.sms.cz" site_id="%C8T24" lang="cs" xmltv_id="CT24.cz@SD">ČT24</channel>
   <channel site="m.tv.sms.cz" site_id="%C8T+%3AD" lang="cs" xmltv_id="CTDecko.cz@SD">ČT :D</channel>
   <channel site="m.tv.sms.cz" site_id="%C8T+art" lang="cs" xmltv_id="CTart.cz@SD">ČT art</channel>
+  <channel site="m.tv.sms.cz" site_id="Spektrum+Home" lang="cs" xmltv_id="SpektrumHome.cz@SD">Spektrum Home</channel>
+  <channel site="m.tv.sms.cz" site_id="STV1" lang="cs" xmltv_id="Jednotka.sk@SD">STV1</channel>
+  <channel site="m.tv.sms.cz" site_id="STV2" lang="cs" xmltv_id="Dvojka.sk@SD">STV2</channel>
 </channels>
