@@ -16,8 +16,8 @@
 <channel site="m.tv.sms.cz" site_id="%C8T+%3AD" lang="cs" xmltv_id="CTDecko.cz@SD">ČT :D</channel>
 <channel site="m.tv.sms.cz" site_id="%C8T+art" lang="cs" xmltv_id="CTart.cz@SD">ČT art</channel>
 <channel site="m.tv.sms.cz" site_id="Spektrum+Home" lang="cs" xmltv_id="SpektrumHome.cz@SD">Spektrum Home</channel>
-<channel site="m.tv.sms.cz" site_id="STV1" lang="cs" xmltv_id="Jednotka.sk@SD">STV1</channel>
-<channel site="m.tv.sms.cz" site_id="STV2" lang="cs" xmltv_id="Dvojka.sk@SD">STV2</channel>
+<channel site="m.tv.sms.cz" site_id="Jednotka" lang="cs" xmltv_id="Jednotka.sk@SD">Jednotka</channel>
+<channel site="m.tv.sms.cz" site_id="Dvojka" lang="cs" xmltv_id="Dvojka.sk@SD">Dvojka</channel>
 <channel site="m.tv.sms.cz" site_id="Mark%EDza" lang="cs" xmltv_id="Markiza.sk@SD">Markíza</channel>
 <channel site="m.tv.sms.cz" site_id="Mark%EDza+International" lang="cs" xmltv_id="MarkizaInternational.sk@SD">Markíza International</channel>
 <channel site="m.tv.sms.cz" site_id="Mark%EDza+KRIMI" lang="cs" xmltv_id="MarkizaKrimi.sk@SD">Markíza KRIMI</channel>
