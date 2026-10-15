@@ -34,7 +34,7 @@
 <channel site="m.tv.sms.cz" site_id="Nova" lang="cs" xmltv_id="TVNova.cz@SD">Nova</channel>
 <channel site="m.tv.sms.cz" site_id="Nova+International" lang="cs" xmltv_id="NovaInternational.cz@SD">Nova International</channel>
 <channel site="m.tv.sms.cz" site_id="Nova+Fun" lang="cs" xmltv_id="NovaFun.cz@SD">Nova Fun</channel>
-<channel site="m.tv.sms.cz" site_id="Nova+Gold" lang="cs" xmltv_id="NovaGold.cz@SD">Nova Gold</channel>
+<channel site="mujtvprogram.cz" site_id="559" lang="cs" xmltv_id="NovaGold.cz@SD">Nova Krimi</channel>
 <channel site="m.tv.sms.cz" site_id="Nova+Action" lang="cs" xmltv_id="NovaAction.cz@SD">Nova Action</channel>
 <channel site="m.tv.sms.cz" site_id="Nova+Cinema" lang="cs" xmltv_id="NovaCinema.cz@SD">Nova Cinema</channel>
 <channel site="m.tv.sms.cz" site_id="AXN" lang="cs" xmltv_id="AXN.cz@SD">AXN</channel>
@@ -44,14 +44,15 @@
 <channel site="m.tv.sms.cz" site_id="HBO3" lang="cs" xmltv_id="HBO3CentralEurope.hu@HD">HBO3</channel>
 <channel site="m.tv.sms.cz" site_id="Cinemax" lang="cs" xmltv_id="CinemaxCentralEurope.hu@HD">Cinemax</channel>
 <channel site="m.tv.sms.cz" site_id="Cinemax+2" lang="cs" xmltv_id="Cinemax2CentralEurope.hu@HD">Cinemax 2</channel>
-<channel site="m.tv.sms.cz" site_id="Filmbox" lang="cs" xmltv_id="FilmBox.nl@CzechRepublic">Filmbox</channel>
-<channel site="m.tv.sms.cz" site_id="Filmbox+Extra+HD" lang="cs" xmltv_id="FilmBoxExtra.nl@CzechRepublic">Filmbox Extra HD</channel>
-<channel site="m.tv.sms.cz" site_id="Filmbox+Premium" lang="cs" xmltv_id="FilmBoxPremium.nl@CzechRepublic">Filmbox Premium</channel>
-<channel site="m.tv.sms.cz" site_id="Filmbox+Family" lang="cs" xmltv_id="FilmBoxFamily.nl@Africa">Filmbox Family</channel>
-<channel site="m.tv.sms.cz" site_id="Filmbox+Stars" lang="cs" xmltv_id="FilmBoxStars.nl@CzechRepublic">Filmbox Stars</channel>
+<channel site="mujtvprogram.cz" site_id="64" lang="cs" xmltv_id="FilmBox.nl@CzechRepublic">FilmBox</channel>
+<channel site="mujtvprogram.cz" site_id="121" lang="cs" xmltv_id="FilmBoxExtra.nl@CzechRepublic">FilmBox Extra HD</channel>
+<channel site="mujtvprogram.cz" site_id="397" lang="cs" xmltv_id="FilmBoxPremium.nl@CzechRepublic">FilmBox Premium</channel>
+<channel site="mujtvprogram.cz" site_id="271" lang="cs" xmltv_id="FilmBoxFamily.nl@Africa">FilmBox Family</channel>
+<channel site="mujtvprogram.cz" site_id="65" lang="cs" xmltv_id="FilmBoxStars.nl@CzechRepublic">FilmBox Stars</channel>
 <channel site="m.tv.sms.cz" site_id="Canal%2B+Action" lang="cs" xmltv_id="CanalPlusAction.cz@SD">Canal+ Action</channel>
 <channel site="m.tv.sms.cz" site_id="Film%2B" lang="cs" xmltv_id="FilmPlus.cz@SD">Film+</channel>
 <channel site="m.tv.sms.cz" site_id="Barrandov" lang="cs" xmltv_id="TVBarrandov.cz@SD">Barrandov</channel>
 <channel site="m.tv.sms.cz" site_id="CS+Film" lang="cs" xmltv_id="CSFilm.cz@SD">CS Film</channel>
 <channel site="m.tv.sms.cz" site_id="Paprika" lang="cs" xmltv_id="TVPaprika.cz@SD">Paprika</channel>
+<channel site="m.tv.sms.cz" site_id="WAU" lang="cs" xmltv_id="JOJWAU.sk@SD">JOJ Krimi</channel>
 </channels>
