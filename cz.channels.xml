@@ -54,5 +54,6 @@
 <channel site="m.tv.sms.cz" site_id="Barrandov" lang="cs" xmltv_id="TVBarrandov.cz@SD">Barrandov</channel>
 <channel site="m.tv.sms.cz" site_id="CS+Film" lang="cs" xmltv_id="CSFilm.cz@SD">CS Film</channel>
 <channel site="m.tv.sms.cz" site_id="Paprika" lang="cs" xmltv_id="TVPaprika.cz@SD">Paprika</channel>
-<channel site="m.tv.sms.cz" site_id="WAU" lang="cs" xmltv_id="JOJWAU.sk@SD">JOJ Krimi</channel>
+<channel site="m.tv.sms.cz" site_id="WAU" lang="cs" xmltv_id="JOJWAU.sk@SD">JOJ Krimi</channel> 
+<channel site="m.tv.sms.cz" site_id="JOJ+Krimi" lang="cs" xmltv_id="JOJKrimi.sk@SD">JOJ Krimi</channel>
 </channels>
